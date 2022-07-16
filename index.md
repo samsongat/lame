@@ -2,7 +2,7 @@
 # This is an 
 ## This is my file
 
-<img scr="https://octodex.github.com/images/yaktocat.png" ait="Image of Yaktocat">
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
 $ git init
